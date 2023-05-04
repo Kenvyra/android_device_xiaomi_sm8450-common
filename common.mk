@@ -555,3 +555,6 @@ endif
 PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
+
+# Misc
+TARGET_ENABLE_BLUR := true
